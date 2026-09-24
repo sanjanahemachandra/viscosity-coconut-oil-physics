@@ -27,7 +27,7 @@ the slope used to calculate viscosity via Stokes' Law.
 ## Key Results
 - Terminal velocity increased with ball radius, consistent with Stokes' Law
 - Calculated viscosity of coconut oil: **0.048 Pa·s**
-- Standard value at room temperature: 0.03–0.04 Pa·s
+- Standard value at room temperature: 0.03-0.04 Pa·s
 - Results align reasonably well with theoretical expectations
 
 ## Files in This Repository
@@ -36,6 +36,7 @@ the slope used to calculate viscosity via Stokes' Law.
 - `tracker_data.xlsx`: raw data tracked from video analysis
 
 ## Course
-PH1023 - General Physics Laboratory II
+PH1023 - General Physics Laboratory II, 
 Faculty of Science, University of Colombo
-1st Year, 2nd Semester (2025)
+
+1st Year, 2nd Semester (December 2024)
