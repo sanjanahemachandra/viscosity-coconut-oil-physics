@@ -34,6 +34,7 @@ the slope used to calculate viscosity via Stokes' Law.
 - `Investigating_the_Viscosity_of_Coconut_Oil.pdf`: full individual report
 - `Viscosity_labsheet.pdf`: original lab sheet
 - `tracker_data.xlsx`: raw data tracked from video analysis
+- `Viscosity.ipynb`: Python notebook for data analysis and graph plotting
 
 ## Course
 PH1023 - General Physics Laboratory II, 
